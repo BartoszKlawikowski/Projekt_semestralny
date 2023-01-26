@@ -1,0 +1,60 @@
+﻿  background1.cpp
+  dane.cpp
+  gracz.cpp
+  main.cpp
+C:\Users\lewba\source\repos\SFML — kopia\SFML\main.cpp(18,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\lewba\source\repos\SFML — kopia\SFML\main.cpp(34,51): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\lewba\source\repos\SFML — kopia\SFML\main.cpp(34,31): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  Menu.cpp
+C:\Users\lewba\source\repos\SFML — kopia\SFML\Menu.cpp(11,44): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  obiekty.cpp
+C:\Users\lewba\source\repos\SFML — kopia\SFML\obiekty.cpp(5,21): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\lewba\source\repos\SFML — kopia\SFML\obiekty.cpp(6,20): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\lewba\source\repos\SFML — kopia\SFML\obiekty.cpp(22,23): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\lewba\source\repos\SFML — kopia\SFML\obiekty.cpp(23,21): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\lewba\source\repos\SFML — kopia\SFML\obiekty.cpp(32,22): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\lewba\source\repos\SFML — kopia\SFML\obiekty.cpp(33,20): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  wyswietlanie_tekstu.cpp
+  zapis.cpp
+  Trwa generowanie kodu
+  221 of 228 functions (96.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  SFML.vcxproj -> C:\Users\lewba\source\repos\SFML — kopia\x64\Release\SFML.exe
